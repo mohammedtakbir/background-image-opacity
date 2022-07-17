@@ -1,0 +1,17 @@
+#james-webb{
+    
+    width: 500px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../imgs/vertical_1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.882), rgba(0, 0, 0, 0.307)), url(../imgs/vertical_1.jpg);
+}
+h1{
+    font-size: 40px;
+    color: #fff;
+}
